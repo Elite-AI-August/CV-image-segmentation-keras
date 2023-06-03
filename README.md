@@ -2,9 +2,6 @@
 
 [![PyPI version](https://badge.fury.io/py/keras-segmentation.svg)](https://badge.fury.io/py/keras-segmentation)
 [![Downloads](https://pepy.tech/badge/keras-segmentation)](https://pepy.tech/project/keras-segmentation)
-[![Build Status](https://travis-ci.org/divamgupta/image-segmentation-keras.png)](https://travis-ci.org/divamgupta/image-segmentation-keras)
-[![MIT license](https://img.shields.io/badge/License-MIT-blue.svg)](http://perso.crans.org/besson/LICENSE.html)
-[![Twitter](https://img.shields.io/twitter/url.svg?label=Follow%20%40divamgupta&style=social&url=https%3A%2F%2Ftwitter.com%2Fdivamgupta)](https://twitter.com/divamgupta)
 
 
 
@@ -17,8 +14,6 @@ Implementation of various Deep Image Segmentation models in keras.
 <p align="center">
   <img src="https://raw.githubusercontent.com/sunshineatnoon/Paper-Collection/master/images/FCN1.png" width="50%" >
 </p>
-
-Link to the full blog post with tutorial : https://divamgupta.com/image-segmentation/2019/06/06/deep-learning-semantic-segmentation-keras.html
 
 
 ## Working Google Colab Examples:
@@ -91,7 +86,7 @@ Install the module
 
 Recommended way:
 ```shell
-pip install --upgrade git+https://github.com/divamgupta/image-segmentation-keras
+pip install --upgrade git+https://github.com/Elite-AI-August/CV-image-segmentation-keras
 ```
 
 ### or 
@@ -103,7 +98,7 @@ pip install keras-segmentation
 ### or
 
 ```shell
-git clone https://github.com/divamgupta/image-segmentation-keras
+git clone https://github.com/Elite-AI-August/CV-image-segmentation-keras
 cd image-segmentation-keras
 python setup.py install
 ```
@@ -456,7 +451,7 @@ model.train(
 
 
 ## Projects using keras-segmentation
-Here are a few projects which are using our library :
+Here are a few projects which are using this library :
 * https://github.com/SteliosTsop/QF-image-segmentation-keras [paper](https://arxiv.org/pdf/1908.02242.pdf)
 * https://github.com/willembressers/bouquet_quality
 * https://github.com/jqueguiner/image-segmentation
